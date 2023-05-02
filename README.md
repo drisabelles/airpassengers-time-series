@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[Sobre o projeto](#project) | [Ferramentas](#tools) | [Autor](#autor)
+[Sobre o projeto](#project) | [Ferramentas](#tools) | [Organização das pastas](#folders) | [Autor](#autor)
 
 </br>
 
@@ -25,6 +25,17 @@ Aplicação de machine learning no jupyter notebook feita com uma base de dados 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-e4d2e4.svg?style=for-the-badge&logo=jupyter&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-e4d2e4.svg?style=for-the-badge&logo=scikit-learn&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-e4d2e4.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+</br>
+
+## 🗂️ Organização das pastas <a name="folders"></a>
+
+```bash
+📂 airpassengers-time-series
+|- 📁 dataset
+|--- 📄 AirPassengers.csv
+|- 📄 air-passengers-timeseries.ipynb
+```
 
 </br>
 
